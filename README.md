@@ -10,11 +10,19 @@ I specialize in developing high-quality WordPress solutions, optimizing performa
 
 ## 🌍 Open Source Contributions
 
-Contributing to the WordPress ecosystem through:
+Actively contributing to the WordPress ecosystem, working across core development, the Gutenberg block editor, and WooCommerce.
 
-- WordPress Gutenberg – Block editor development
-- WordPress Core – Core improvements and bug fixes
-- WooCommerce – Ecommerce functionality and improvements
+### WordPress Core
+- [View my WordPress Core contributions](https://github.com/WordPress/wordpress-develop/pulls?q=is%3Apr+author%3Aakramg478)
+
+### Gutenberg
+- [#86258 – Playlist Track: Use shared MediaControl for Track image](https://github.com/WordPress/gutenberg/pull/86258)
+- [View my Gutenberg contributions](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aakramg478)
+
+### WooCommerce
+- [View my WooCommerce contributions](https://github.com/woocommerce/woocommerce/pulls?q=is%3Apr+author%3Aakramg478)
+
+Contributing bug fixes, improving existing functionality, working with established codebases, and collaborating through code reviews and testing.
 
 ### 🚀 What I Do
 
