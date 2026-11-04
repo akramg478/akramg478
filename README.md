@@ -10,12 +10,11 @@ I specialize in developing high-quality WordPress solutions, optimizing performa
 
 ## 🌍 Open Source Contributions
 
-Actively contributing to the WordPress ecosystem,
-including Gutenberg core development.
+Contributing to the WordPress ecosystem through:
 
-- [Gutenberg PR #86258](https://github.com/WordPress/gutenberg/pull/86258)
-  - Improved Playlist Track image controls using
-    Gutenberg's shared MediaControl component.
+- WordPress Gutenberg – Block editor development
+- WordPress Core – Core improvements and bug fixes
+- WooCommerce – Ecommerce functionality and improvements
 
 ### 🚀 What I Do
 
