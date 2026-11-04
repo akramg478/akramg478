@@ -20,7 +20,11 @@ Actively contributing to the WordPress ecosystem, working across core developmen
 - [View my Gutenberg contributions](https://github.com/WordPress/gutenberg/pulls?q=is%3Apr+author%3Aakramg478)
 
 ### WooCommerce
-- [View my WooCommerce contributions](https://github.com/woocommerce/woocommerce/pulls?q=is%3Apr+author%3Aakramg478)
+
+Contributed to the official WooCommerce codebase.
+
+- **[Fix Analytics variations stats product filtering](https://github.com/woocommerce/woocommerce/pull/70609)** — Merged into WooCommerce, targeting milestone **11.4.0**.
+- [View all my WooCommerce contributions](https://github.com/woocommerce/woocommerce/pulls?q=is%3Apr+author%3Aakramg478)
 
 Contributing bug fixes, improving existing functionality, working with established codebases, and collaborating through code reviews and testing.
 
